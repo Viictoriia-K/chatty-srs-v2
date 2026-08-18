@@ -35,7 +35,7 @@ Chatty — приложение для изучения иностранных �
 ### Артефакты
 
 - **SRS**
-- **UML Use Case Diagram**
+- **[UML Use Case Diagram](https://docs.google.com/document/d/1NQMJsFfDpyps3VNUFCzD9QFnmotUZgD0gS2QrxLTD2M/edit?usp=sharing)**
 
 
 
